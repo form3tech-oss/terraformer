@@ -1,9 +1,9 @@
 module github.com/GoogleCloudPlatform/terraformer
 
-go 1.15
+go 1.16
 
 require (
-	cloud.google.com/go v0.74.0
+	cloud.google.com/go v0.77.0
 	cloud.google.com/go/logging v1.1.2
 	cloud.google.com/go/storage v1.12.0
 	github.com/Azure/azure-sdk-for-go v42.3.0+incompatible
@@ -18,7 +18,7 @@ require (
 	github.com/IBM/networking-go-sdk v0.12.1
 	github.com/IBM/vpc-go-sdk v0.4.1
 	github.com/OctopusDeploy/go-octopusdeploy v1.6.0
-	github.com/aliyun/alibaba-cloud-sdk-go v1.60.295
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.976
 	github.com/aliyun/aliyun-tablestore-go-sdk v4.1.2+incompatible
 	github.com/apache/openwhisk-client-go v0.0.0-20210106144548-17d556327cd3
 	github.com/aws/aws-sdk-go v1.36.19
@@ -59,11 +59,11 @@ require (
 	github.com/yandex-cloud/go-sdk v0.0.0-20200722140627-2194e5077f13
 	github.com/zclconf/go-cty v1.7.1
 	github.com/zorkian/go-datadog-api v2.30.0+incompatible
-	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
-	golang.org/x/text v0.3.4
+	golang.org/x/oauth2 v0.0.0-20210113205817-d3ed898aa8a3
+	golang.org/x/text v0.3.5
 	gonum.org/v1/gonum v0.7.0
-	google.golang.org/api v0.36.0
-	google.golang.org/genproto v0.0.0-20201210142538-e3217bee35cc
+	google.golang.org/api v0.40.0
+	google.golang.org/genproto v0.0.0-20210212180131-e7f2df4ecc2d
 	gopkg.in/jarcoal/httpmock.v1 v1.0.0-00010101000000-000000000000 // indirect
 	k8s.io/apimachinery v0.20.2
 	k8s.io/client-go v0.20.2
