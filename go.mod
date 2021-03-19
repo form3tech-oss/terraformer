@@ -14,8 +14,8 @@ require (
 	github.com/IBM/go-sdk-core/v3 v3.3.1
 	github.com/IBM/go-sdk-core/v4 v4.9.0
 	github.com/IBM/ibm-cos-sdk-go v1.5.0
-	github.com/IBM/keyprotect-go-client v0.5.2
-	github.com/IBM/networking-go-sdk v0.12.1
+	github.com/IBM/keyprotect-go-client v0.6.0
+	github.com/IBM/networking-go-sdk v0.13.0
 	github.com/IBM/vpc-go-sdk v0.4.1
 	github.com/OctopusDeploy/go-octopusdeploy v1.6.0
 	github.com/aliyun/alibaba-cloud-sdk-go v1.60.295
@@ -45,7 +45,7 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0
 	github.com/jonboydell/logzio_client v1.2.0
 	github.com/labd/commercetools-go-sdk v0.0.0-20200309143931-ca72e918a79d
-	github.com/linode/linodego v0.24.1
+	github.com/linode/linodego v0.26.1
 	github.com/mrparkers/terraform-provider-keycloak v0.0.0-20200506151941-509881368409
 	github.com/ns1/ns1-go v2.4.0+incompatible
 	github.com/paultyng/go-newrelic/v4 v4.10.0
